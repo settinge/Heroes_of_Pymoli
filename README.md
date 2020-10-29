@@ -1,6 +1,14 @@
 ### Pandas-Challenge
 Reads in excel file containing data around a new release video game-Heroes of Pymoli. Generates a report that breaks down the game's purchasing data into useful insights.
 
+## How to Run Code
+
+1. Clone repository to a folder on machine
+
+2. Navigate to jupyter lab and open Heroes_of_Pymoli> Heroes of Pymoli.ipynb
+
+3. Run all cells
+
 
 ### Tools/Libraries Used
 Pandas, numpy, data munging
