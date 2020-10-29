@@ -65,3 +65,21 @@ The final report included the following metrics:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+# Screenshots
+
+[age](age_dataframe.JPG)
+
+Puts purchasers into age group bins and reports on number of purchases, average purchase price, total purchase value, and avg total purchase per person by bin.
+
+[gender](gender_dataframe.JPG)
+
+Splits purchasers up by Gender and reports on number of purchases, average purchase price,and avg total purchase per person by gender.
+
+[popular](popular_items.JPG)
+
+Identifies the 5 most popular items and reports on number of purchases, item price, and total purchase value.
+
+
+
+
